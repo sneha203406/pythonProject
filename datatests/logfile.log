@@ -1,0 +1,94 @@
+2021-04-06 15:34:29,110 :INFO : test_dfComparison :first name is 
+2021-04-06 15:39:20,128 :INFO : test_dfComparison :Comparision 
+2021-04-06 15:40:23,921 :INFO : test_dfComparison :Comparision 
+2021-04-06 15:40:23,939 :INFO : test_dfComparison :Empty DataFrame
+Columns: [Name, Age, place, city]
+Index: []
+2021-04-06 15:41:34,342 :INFO : test_dfComparison :Comparision 
+2021-04-06 15:41:34,373 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 15:43:01,058 :INFO : test_dfComparison :False
+2021-04-06 15:43:01,060 :INFO : test_dfComparison :Comparision 
+2021-04-06 15:43:01,075 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 15:51:58,098 :INFO : test_dfComparison :Comparision 
+2021-04-06 15:51:58,113 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 15:53:19,917 :INFO : test_dfComparison :Comparision 
+2021-04-06 15:53:19,928 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 16:35:57,361 :INFO : test_dfComparison :Comparision 
+2021-04-06 16:35:57,376 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 16:37:25,408 :INFO : test_dfComparison :Comparision 
+2021-04-06 16:37:25,424 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 16:39:00,457 :INFO : test_dfComparison :Comparision 
+2021-04-06 16:39:00,488 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 16:39:00,707 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 16:51:57,279 :INFO : test_dfComparison :Comparision 
+2021-04-06 16:51:57,295 :INFO : test_dfComparison :Empty DataFrame
+Columns: [Name, Age, place, city]
+Index: []
+2021-04-06 16:53:19,523 :INFO : test_dfComparison :Comparision 
+2021-04-06 16:53:19,538 :INFO : test_dfComparison :Empty DataFrame
+Columns: [Name, Age, place, city]
+Index: []
+2021-04-06 16:54:19,627 :INFO : test_dfComparison :Comparision 
+2021-04-06 16:54:19,643 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 17:33:37,370 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:33:37,385 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 17:35:07,123 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:35:07,139 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 17:36:32,203 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:36:32,218 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 17:39:41,186 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:39:41,202 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 17:40:18,161 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:40:18,177 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 17:42:49,400 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:42:49,416 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 17:44:44,433 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:44:44,448 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 17:45:52,219 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:45:52,234 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 17:49:24,589 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:49:24,604 :INFO : test_dfComparison :    Name  Age      place   city
+0  krian   23  bangalore  ecity
+0  krian   23  bangalore  Zcity
+2021-04-06 17:49:31,967 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:49:31,967 :INFO : test_dfComparison :Comparision 
+2021-04-06 17:49:31,999 :INFO : test_dfComparison :Empty DataFrame
+Columns: [Name, Age, place, city]
+Index: []
+2021-04-06 17:49:31,999 :INFO : test_dfComparison :Empty DataFrame
+Columns: [Name, Age, place, city]
+Index: []
